@@ -3,8 +3,8 @@
     font-style: normal;
     font-weight: normal;
     src: local("ptsans"),
-    url("/fonts/ptsans.woff2"),
-    url("/fonts/ptsans.woff");
+    url("/project-Sedona//fonts/ptsans.woff2"),
+    url("/project-Sedona//fonts/ptsans.woff");
 }
 
 
@@ -13,8 +13,8 @@
     font-style: normal;
     font-weight: bold;
     src: local("ptsans"),
-    url("/fonts/ptsansbold.woff2"),
-    url("/fonts/ptsansbold.woff");
+    url("/project-Sedona//fonts/ptsansbold.woff2"),
+    url("/project-Sedona//fonts/ptsansbold.woff");
 }
 
 
