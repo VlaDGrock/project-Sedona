@@ -1,3 +1,3 @@
 # Учебный проект Седона
 Проект выполнялся в рамках первой стадии обучения программированию, так сказать знакомство с HTML и CSS, адаптивной вёрсткой (mobile tablet desktop). И, самую-самую малость с JavaScript(ну вы видите этот несчастный 1%)
-# [Кликайте, по ссылке Sedona](vladgrock.github.io/project-Sedona/)
+# [Кликайте, по ссылке - Sedona](vladgrock.github.io/project-Sedona/)
