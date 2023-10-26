@@ -56,9 +56,8 @@ a {
     width: 1200px;
     margin: 0px auto;
     background-color: #ffffff;
-    
-    
 }
+
 .main-navigation {
     box-shadow: 0px 10px 10px #888888;
 }
@@ -66,7 +65,6 @@ a {
     width: 1200px;
     margin: 0px auto;
     background-color: #ffffff;
-    
 }
 
 .logo {
@@ -89,8 +87,6 @@ a {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-
-
 }
 
 .site-navigation-item {
@@ -107,16 +103,12 @@ a {
 }
 
 
-
 .all {
-    
     width: 1200px;
     margin: 0px auto;
     background-color: #ffffff;
     box-shadow: 0px 10px 10px #888888;
 }
-
-
 
 
 ul, li {
@@ -126,7 +118,7 @@ ul, li {
 
 
 .welcome {
-    background-image: url(/img/1/backgraund.jpg);
+    background-image: url(/project-Sedona/img/1/backgraund.jpg);
     background-position: center -84px;
     background-size: cover;
     text-align: center;
@@ -141,7 +133,7 @@ padding-bottom: 23px;
 
 .ramka {
 height: 57px;
-background-image: url(/img/1/рамкафона.png);
+background-image: url(/project-Sedona/img/1/рамкафона.png);
 }
 
 
@@ -155,86 +147,12 @@ padding-top: 20px ;
 line-height: 26px;
 }
 
-/*
-    display: grid;
-    grid-template-columns: 95px 1fr;
-    column-gap: 75px;
-
-.container {
-    width: 1200px;
-    margin: 0 auto;
-    padding: 0 10px;
-
-}
-*/
-
-
-/*пока при удалении этих свойств ничего не меняется
-.site-navigation-item a {
-    color: #000000;
-    font-weight: 700;
-    line-height: 26px;
-    text-transform: uppercase;
-}
-*/
-
-
-/*
-.site-navigation-link1 {
-  display: block;
-  
-
-  margin: 1px;
-  padding-top: 22px;
-  padding-bottom: 22px;
-  padding-left: 72px;
-  padding-right: 74px;
-  background-color: blueviolet;
-}
-
-.site-navigation-link2 {
-    display: block;
-    margin: 1px;
-    padding-top: 22px;
-    padding-bottom: 22px;
-    padding-left: 73px;
-    padding-right: 68px;
-    background-color: orange;
-  }
-
-  .site-navigation-link3 {
-    display: block;
-    margin: 1px;
-    
-    padding-top: 22px;
-    padding-bottom: 22px;
-    padding-left: 76px;
-    padding-right: 73px;
-    background-color: cyan;
-  }
-  .site-navigation-link4 {
-    display: block;
-    margin: 1px;
-    
-    padding-top: 22px;
-    padding-bottom: 22px;
-    padding-left: 88px;
-    padding-right: 72px;
-    background-color: firebrick;
-  }
-
-
-  */
-
-
-
-
-
 /*ОСНОВНОЙ БЛОК*/
 
 .wrap {
     flex-wrap: wrap;
 }
+
 .reasons-list {
     display: flex;
     list-style: none;
@@ -264,8 +182,6 @@ ul, li {
     background-size: 400px 256px;
 }
 
-
-
 .position {
     padding-right: 60px;
     padding-left: 60px;
@@ -281,14 +197,12 @@ ul, li {
     width: 1200px;
 
     padding-top: 56px ;
-   
 }
 
 .position-1 {
     padding-right: 60px;
     padding-left: 60px;
     padding-top: 46px;
-    
 }
 
 
@@ -296,7 +210,6 @@ ul, li {
     background-color: #eeeeee;
     width: 400px;
     height: 256px;
-    
 }
 
 .reasons-item-gray-one-position {
@@ -321,10 +234,6 @@ ul, li {
     margin-top: 46px; 
 }
 
-
-
-
-
 .reason-wrapper-devil {
     width: 400px;
     height: 256px;
@@ -333,61 +242,13 @@ ul, li {
     background-size: 400px 256px;
 }
 
-
-
-
-
-
-
-
 ul {
     list-style: none;
 }
-/* старая версия раздела ниже шапки, теперь welcome
-.intro (welcome) {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-	justify-content: flex-start;
-   
-    min-height: 508px;
-	background-color: #d5e6f0;
-    background-image: url(/img/1/backgraund.jpg);
-    background-position: 100% 22%;
-    background-repeat: no-repeat;
-	background-size: 100%;
-}
-
-.intro img {
-	margin-top: 62px;
-	margin-bottom:0;
-	padding: 0;
-}
-
-.intro .mask::after {
-	content: "";
-
-	position: absolute;
-	bottom: -1px;
-	left: 0;
-
-	width: 1200px;
-	height: 57px;
-    background-image: url(/img/1/рамкафона.png);
-    align-items: center;
-}
-*/
-
-
-
-
 
 .advantages-list {
     color: #000000;
 }
-
-
 
 .site-navigation a:hover,
 .site-navigation a:focus {
@@ -417,7 +278,6 @@ ul {
     line-height: 26px;
 }
 
-
 .reasons-list {
     list-style: none;
     text-align: center;
@@ -426,7 +286,6 @@ ul {
 .reasons-item h3 {
     font-size: 21px;
     line-height: 21px;
-
 }
 
 .reasons-item  b {
@@ -443,7 +302,6 @@ ul {
 .advantages-list {
     display: flex;
     list-style: none;
-   
 }
 
 .advantages-list li {
@@ -451,15 +309,6 @@ ul {
     text-align: center;
     width: 400px;
 }
-
-.advantages-list p {
-  
-}
-
-
-
-
-
 
 
 /* БЛОК ЗАИНТЕРЕСОВАЛИСЬ?*/
@@ -523,7 +372,7 @@ ul {
 .map {
 width: 1200px;
 height: 593px;
-background-image: url(/img/1/map.png);
+background-image: url(/project-Sedona/img/1/map.png);
 }
 
 
@@ -533,7 +382,6 @@ background-image: url(/img/1/map.png);
 .footer {
     width: 1200px;
     position: relative;
-    
 }
 
 .footer-contacts {
@@ -551,8 +399,6 @@ background-image: url(/img/1/map.png);
     line-height: 26px;
     font-weight: bold;
     margin-top: 10px;
-   
-
 }
 
 .footer-hashtag {
@@ -562,8 +408,7 @@ background-image: url(/img/1/map.png);
 .footer-copyright {
     font-size: 14px;
     line-height: 26px;
-    font-weight: normal;
-    
+    font-weight: normal; 
 }
 
 .button-academy:hover path,
@@ -581,14 +426,11 @@ background-image: url(/img/1/map.png);
 }
 
 
-
-
-
 .social {
    display: flex;
    width: 151px;
    flex-wrap: wrap;
-   justify-content:space-between;
+   justify-content: space-between;
    margin: 0 0;
    padding: 0;
    list-style: none;
@@ -630,20 +472,6 @@ background-image: url(/img/1/map.png);
     margin-top: 7px;
 }
 
-/*
-.twit {
-    padding-right: 7px ;
-}
-
-.you {
-    padding-left: 6.7px ;
-}
-
-.social-button :hover
- {
-    color: #669ec0
-}
-*/
 
 
 
@@ -785,15 +613,12 @@ background-image: url(/img/1/map.png);
 
     background: none;
     border: none;
-
 }
 
 
 .border-price input[type="text"] {
     outline: none;
 }
-
-
 
 
 .price-per-day-text {
@@ -835,39 +660,6 @@ background-image: url(/img/1/map.png);
     color: #000000;
     background-color: #ffffff;
 }
-
-
-
-
-/*
-.filter-button-button {
-    font-size: 14px;
-    line-height: 21px;
-    font-weight: normal;
-    color: #ffffff;
-    background-color: transparent;
-    border: 2px solid white;
-    border-radius: 2px;
-    text-transform: uppercase;
-    padding: 11px 33px 11px 35px;
-
-}
-
-.
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /*СЕКЦИЯ СОРТИРОВКИ  DIV BLOCK*/
@@ -981,18 +773,6 @@ section.price-per-day {
 }
 
 
-/* ПЕРВАЯ ВЕРСИЯ
-.filter-input-checkbox + label::before {
-    content: "\2714";
-    color: #fff;
-    font-size: 20px;
-    text-align: center;
-    line-height: 20px;
-
-    
-    
-}
-*/
 .type-of-housing input[type=checkbox]:checked + label::before {
     content: "\2714";
     color: #fff;
@@ -1000,10 +780,6 @@ section.price-per-day {
     text-align: center;
     line-height: 20px;
 }
-
-
-
-
 
 
 /*СЕКЦИЯ ПОИСК СОРТИРОВКА ПОИСКА*/
@@ -1047,7 +823,6 @@ section.price-per-day {
 }
 
 
-
 .arrows {
     display: flex;
     justify-content: center;
@@ -1087,23 +862,13 @@ section.price-per-day {
 /*СЕКЦИЯ ОТЕЛИ*/
 
 
-
-
 .hotels {
     width: 1200px;
     margin: 0 auto;
 }
 
-
-
-
-
-
-
-
-
 .block {
-    background-image: url("/img/2/мутный фон.jpg");
+    background-image: url("/project-Sedona/img/2/мутный фон.jpg");
 }
 
 .filter-option {
@@ -1112,8 +877,6 @@ section.price-per-day {
     font-weight: normal;
     color: #ffffff;
 }
-
-
 
 .button-hotel {
     margin-top: 2px;
@@ -1138,10 +901,9 @@ p.type.hotel {
     
     background-color: #81b3d2;
    
-  margin-right: px;
     text-align: center;
     align-items: center;
-  }
+}
 
 .button-detail:hover {
     background-color:#669ec0;
@@ -1150,7 +912,6 @@ p.type.hotel {
 .button-detail:active {
     background-color:#5496bd;
     color: rgba(255, 255, 255, 0.3);
-    
 }
 
 .button-booking {
@@ -1180,19 +941,11 @@ background-color:#503e33;
 color: rgba(255, 255, 255, 0.3);
 }
 
-
-
 .hotels h3 {
     font-size: 21px;
   line-height: 26px;
 
     color: #000000;
-}
-
-
-
-.hotels {
-    
 }
 
 
@@ -1207,16 +960,6 @@ color: rgba(255, 255, 255, 0.3);
 .hotels-item-ss {
     height: 90px;
 }
-
-.hotel-one-image {
-    /*
-    margin-left: 73px;
-    margin-top: 68px;
-    */
-    
-}
-
-
 
 .hotel-three {
     display: flex;
@@ -1235,13 +978,9 @@ color: rgba(255, 255, 255, 0.3);
     margin-left: 30px;
 }
 
-
-
-
 .type-price-hotel {
     display: flex;
     margin-top: 10px ;
-    
 }
 
 .price-hotel-one {
@@ -1261,7 +1000,6 @@ color: rgba(255, 255, 255, 0.3);
 
 
 .rating-text {
-    
     padding: 4px;
     width: 110px;
     
@@ -1331,8 +1069,6 @@ color: rgba(255, 255, 255, 0.3);
 
 /*ФУТЕР*/
 
-
-
 .footer-contacts-2-page {
     display: flex;
     width: 100%;
@@ -1357,7 +1093,6 @@ color: rgba(255, 255, 255, 0.3);
 }
 
 .modal-search {
-    
     top: 128px;
     left: 50%;
 
@@ -1409,12 +1144,6 @@ color: rgba(255, 255, 255, 0.3);
 
 }
 
-
-
-
-
-
-
 .search-form .adults-and-children {
     font: inherit;
     color: #000000;
@@ -1430,8 +1159,7 @@ color: rgba(255, 255, 255, 0.3);
     background-color: #f2f2f2;
     border: none;
     outline: none;
- }
-
+}
 
 .date-arrival span {
     margin: 0;
@@ -1453,37 +1181,14 @@ color: rgba(255, 255, 255, 0.3);
     margin-right: 37px;
 }
 
-
-
 .arrival {
-    background-image: url(/img/1/calendar.svg);
+    background-image: url(/project-Sedona/img/1/calendar.svg);
     background-position: 316px center;
     background-repeat: no-repeat;
-    
 }
-
-/*
-.date-arrival {
-    position: relative;
-
-}
-.date-arrival::before {
-    content: url(/img/1/calendar.svg);
-    position: absolute;
-    top: 9px;
-    left: 427px;
-}
-.date-arrival:hover path {
-    fill: red;
-}
-*/
-
-
-
 
 .date-arrival input:hover{
     background-color:#ebebeb;
-
 }
 
 .date-arrival input:focus {
@@ -1491,7 +1196,6 @@ color: rgba(255, 255, 255, 0.3);
     background-color: #ffffff;
     border: 2px solid #e5e5e5;
 }
-
 
 .date-of-departure input:hover{
     background-color:#ebebeb;
@@ -1503,15 +1207,13 @@ color: rgba(255, 255, 255, 0.3);
     border: 2px solid #e5e5e5;
 }
    
-
 .adults-and-children {
-    background-image: url(/img/1/плюсминус.png);
+    background-image: url(/project-Sedona/img/1/плюсминус.png);
     background-position: 14px center;
     background-repeat: no-repeat;
 }
 
 .search-form .modal-go {
-    
     width: 100%;
     height: 58px;
 
@@ -1522,8 +1224,6 @@ color: rgba(255, 255, 255, 0.3);
     color: #ffffff;
 
     border: none;
-
-
     background-color: #81b3d2;
 }
 
@@ -1538,7 +1238,6 @@ color: rgba(255, 255, 255, 0.3);
 }
 
 .modal-close {
-
     position: absolute;
     top: 0;
     right: -34px;
